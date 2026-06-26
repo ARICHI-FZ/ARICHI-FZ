@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fatimazahra Arichi 👋</h1>
+<h1 align="center">Hi, I'm Fatima zahra Arichi 👋</h1>
 
 <p align="center">
   <em>Data Engineer · ML Practitioner · Cloud & Pipeline Enthusiast</em>
