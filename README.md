@@ -66,7 +66,7 @@
 `Machine Learning` `Deep Learning` `MLOps` `Big Data` `Data Analysis`  
 `Statistics` `REST APIs` `Object-Oriented Programming`  
 `Data Structures & Algorithms` `CI/CD` `Distributed Systems`  
-`Cloud Computing` `Real-time Streaming` `Software Development`
+`Cloud Computing` `Real-time Streaming` `Software Development``Unit Testing` `E2E Testing` `API Testing` `Performance Testing` `Data Quality` `CI/CD Testing` `Test Automation`
 
 ---
 
