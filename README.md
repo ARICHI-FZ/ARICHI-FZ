@@ -84,14 +84,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ARICHI-FZ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARICHI-FZ&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/ARICHI-FZ?style=for-the-badge&logo=github&color=blueviolet" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/ARICHI-FZ/ARICHI-FZ?style=for-the-badge&logo=git&color=blueviolet" alt="Last commit" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-blueviolet?style=for-the-badge" alt="Focus" />
 </p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=ARICHI-FZ&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ### 🏆 GitHub Achievements
