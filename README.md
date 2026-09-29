@@ -94,10 +94,21 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARICHI-FZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ARICHI-FZ?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png"
+         width="110"
+         alt="Quickdraw Achievement"
+         title="Quickdraw" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ARICHI-FZ?tab=achievements">
+    <strong>🏹 Quickdraw</strong>
+  </a>
 </p>
 
 ---
